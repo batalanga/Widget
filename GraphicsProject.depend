@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1425543138 source:d:\program files (x86)\codeblocks\grapicsprojekt\main.cpp
+	"graphics.hpp"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<vector>
+	<sstream>
+
+1423930564 d:\program files (x86)\codeblocks\grapicsprojekt\include\graphics.hpp
+	<string>
+
+1426886076 source:d:\program files (x86)\codeblocks\projects\komplex\komplex.cpp
+	"komplex.hpp"
+	"graphics.hpp"
+
+1426886092 d:\program files (x86)\codeblocks\projects\komplex\komplex.hpp
+	"graphics.hpp"
+
+1426886076 source:d:\program files (x86)\codeblocks\projects\komplex\main.cpp
+	"graphics.hpp"
+	"komplex.hpp"
+	<iostream>
+
+1423930564 d:\program files (x86)\codeblocks\projects\komplex\include\graphics.hpp
+	<string>
+
+1430994486 source:d:\program files (x86)\codeblocks\projects\widget\main.cpp
+	"mycalcualtor.hpp"
+	"mywindow.hpp"
+	"rentacar.hpp"
+
+1429866837 d:\program files (x86)\codeblocks\projects\widget\include\graphics.hpp
+	<string>
+
+1430635973 d:\program files (x86)\codeblocks\projects\widget\widget.hpp
+	"graphics.hpp"
+	<vector>
+
+1430633988 source:d:\program files (x86)\codeblocks\projects\widget\widget.cpp
+	"widget.hpp"
+	<fstream>
+	<sstream>
+
+1430633963 source:d:\program files (x86)\codeblocks\projects\widget\checkbox.cpp
+	"checkbox.hpp"
+
+1429883996 d:\program files (x86)\codeblocks\projects\widget\checkbox.hpp
+	"widget.hpp"
+
+1430633963 source:d:\program files (x86)\codeblocks\projects\widget\gauge.cpp
+	"gauge.hpp"
+	<sstream>
+	<fstream>
+
+1429883995 d:\program files (x86)\codeblocks\projects\widget\gauge.hpp
+	"widget.hpp"
+
+1430910432 source:d:\program files (x86)\codeblocks\projects\widget\text.cpp
+	"text.hpp"
+	<iostream>
+	<sstream>
+
+1431332223 d:\program files (x86)\codeblocks\projects\widget\text.hpp
+	"widget.hpp"
+	<functional>
+
+1430416812 d:\program files (x86)\codeblocks\projects\widget\choose.hpp
+	"widget.hpp"
+
+1430635794 source:d:\program files (x86)\codeblocks\projects\widget\choose.cpp
+	"choose.hpp"
+	<sstream>
+	<fstream>
+	<iostream>
+
+1430632572 source:d:\program files (x86)\codeblocks\projects\widget\window.cpp
+	"window.hpp"
+	"stdfuncbutton.hpp"
+	"text.hpp"
+	"choose.hpp"
+	<iostream>
+
+1430685431 d:\program files (x86)\codeblocks\projects\widget\window.hpp
+	"widget.hpp"
+
+1430632942 d:\program files (x86)\codeblocks\projects\widget\stdfuncbutton.hpp
+	<functional>
+	"widget.hpp"
+
+1430495812 source:d:\program files (x86)\codeblocks\projects\widget\mywindow.cpp
+	"mywindow.hpp"
+	"stdfuncbutton.hpp"
+	"gauge.hpp"
+	"checkbox.hpp"
+	"text.hpp"
+	"choose.hpp"
+
+1430405173 d:\program files (x86)\codeblocks\projects\widget\mywindow.hpp
+	"window.hpp"
+
+1430485240 d:\program files (x86)\codeblocks\projects\widget\mycalcualtor.hpp
+	"window.hpp"
+
+1430994399 source:d:\program files (x86)\codeblocks\projects\widget\mycalcualtor.cpp
+	"mycalcualtor.hpp"
+	"stdfuncbutton.hpp"
+	"gauge.hpp"
+	"checkbox.hpp"
+	"text.hpp"
+	"choose.hpp"
+
+1430633869 source:d:\program files (x86)\codeblocks\projects\widget\stdfuncbutton.cpp
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+
+1430994326 source:d:\program files (x86)\codeblocks\projects\widget\rentacar.cpp
+	"rentacar.hpp"
+	"stdfuncbutton.hpp"
+	"gauge.hpp"
+	"checkbox.hpp"
+	"text.hpp"
+	"choose.hpp"
+
+1430994264 d:\program files (x86)\codeblocks\projects\widget\rentacar.hpp
+	"window.hpp"
+
+1431329978 source:d:\program files (x86)\codeblocks\projects\widget\text másolata.cpp
+	"text.hpp"
+	<iostream>
+	<sstream>
+
