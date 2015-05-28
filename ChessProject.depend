@@ -186,3 +186,157 @@
 1432631980 d:\program files (x86)\codeblocks\projects\widget\gamemaster.h
 	"widget.hpp"
 
+1432807581 source:c:\users\plain\documents\github\widget\bishop.cpp
+	"bishop.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+
+1432807581 c:\users\plain\documents\github\widget\bishop.h
+	"chessbutton.h"
+
+1432807581 c:\users\plain\documents\github\widget\chessbutton.h
+	"stdfuncbutton.hpp"
+
+1432807581 c:\users\plain\documents\github\widget\stdfuncbutton.hpp
+	<functional>
+	"widget.hpp"
+
+1432807581 c:\users\plain\documents\github\widget\widget.hpp
+	"graphics.hpp"
+	<vector>
+
+1432807581 c:\users\plain\documents\github\widget\include\graphics.hpp
+	<string>
+
+1432807581 source:c:\users\plain\documents\github\widget\checkbox.cpp
+	"checkbox.hpp"
+
+1432807581 c:\users\plain\documents\github\widget\checkbox.hpp
+	"widget.hpp"
+
+1432807581 source:c:\users\plain\documents\github\widget\chessbutton.cpp
+	"chessbutton.h"
+	<iostream>
+
+1432807581 source:c:\users\plain\documents\github\widget\choose.cpp
+	"choose.hpp"
+	<sstream>
+	<fstream>
+	<iostream>
+
+1432807581 c:\users\plain\documents\github\widget\choose.hpp
+	"widget.hpp"
+
+1432807581 source:c:\users\plain\documents\github\widget\gamemaster.cpp
+	"gamemaster.h"
+	<iostream>
+
+1432807581 c:\users\plain\documents\github\widget\gamemaster.h
+	"widget.hpp"
+
+1432807581 source:c:\users\plain\documents\github\widget\gauge.cpp
+	"gauge.hpp"
+	<sstream>
+	<fstream>
+
+1432807581 c:\users\plain\documents\github\widget\gauge.hpp
+	"widget.hpp"
+
+1432807581 source:c:\users\plain\documents\github\widget\king.cpp
+	"king.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+
+1432807581 c:\users\plain\documents\github\widget\king.h
+	"chessbutton.h"
+
+1432807581 source:c:\users\plain\documents\github\widget\knight.cpp
+	"knight.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+
+1432807581 c:\users\plain\documents\github\widget\knight.h
+	"chessbutton.h"
+
+1432807581 source:c:\users\plain\documents\github\widget\main.cpp
+	"mychess.hpp"
+
+1432807581 c:\users\plain\documents\github\widget\mychess.hpp
+	"window.hpp"
+
+1432807581 c:\users\plain\documents\github\widget\window.hpp
+	"widget.hpp"
+	"gamemaster.h"
+
+1432807581 source:c:\users\plain\documents\github\widget\mychess.cpp
+	"mychess.hpp"
+	"pawn.h"
+	"queen.h"
+	"king.h"
+	"rook.h"
+	"bishop.h"
+	"knight.h"
+	"gamemaster.h"
+
+1432807581 c:\users\plain\documents\github\widget\pawn.h
+	"chessbutton.h"
+
+1432807581 c:\users\plain\documents\github\widget\queen.h
+	"chessbutton.h"
+
+1432807581 c:\users\plain\documents\github\widget\rook.h
+	"chessbutton.h"
+
+1432807581 source:c:\users\plain\documents\github\widget\pawn.cpp
+	"pawn.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+	<iostream>
+
+1432807581 source:c:\users\plain\documents\github\widget\queen.cpp
+	"queen.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+
+1432807581 source:c:\users\plain\documents\github\widget\rook.cpp
+	"rook.h"
+	<iostream>
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+	<fstream>
+
+1432807581 source:c:\users\plain\documents\github\widget\stdfuncbutton.cpp
+	"stdfuncbutton.hpp"
+	"graphics.hpp"
+
+1432807581 source:c:\users\plain\documents\github\widget\text.cpp
+	"text.hpp"
+	<iostream>
+	<sstream>
+
+1432807581 c:\users\plain\documents\github\widget\text.hpp
+	"widget.hpp"
+	<functional>
+
+1432807581 source:c:\users\plain\documents\github\widget\widget.cpp
+	"widget.hpp"
+	<fstream>
+	<sstream>
+
+1432807581 source:c:\users\plain\documents\github\widget\window.cpp
+	"window.hpp"
+	"stdfuncbutton.hpp"
+	"text.hpp"
+	"choose.hpp"
+	<iostream>
+
